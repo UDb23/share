@@ -1,0 +1,3 @@
+Resolution Databases 
+Structure of txt files:
+rom name, screen x, screen y, orientation (Vertical or Orizontal), type (Vector or Raster), maxresX,maxresY, resX_Scaleinteger, resY_Scaleinteger, AspectX, AspectY, Frequency
